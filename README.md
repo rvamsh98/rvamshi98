@@ -40,16 +40,18 @@ I’m actively pursuing a Master of Science in Cybersecurity & Networks at the U
 - Configured VLANs, subnets, and routing protocols for seamless communication.  
 - Integrated firewalls and ACLs to enhance security and tested network reliability.  
 
-### [Threat Hunting Using Splunk](https://github.com/vamshiramavath/threat-hunting-splunk)  
-- Built custom Splunk dashboards to analyze and respond to security incidents.  
-- Conducted log analysis to detect anomalies and potential threats.  
+### [Educational Keylogger Project](https://github.com/vamshiramavath/keylogger-educational)  
+- **Description**: Created a basic keylogger as part of an educational project to understand how keyloggers operate and develop countermeasures against them.  
+- **Technologies Used**: Python, PyInstaller  
+- **Purpose**:  
+  - To study the behavior of keylogging tools.  
+  - To implement defenses against keyloggers by identifying patterns and creating detection mechanisms.  
+- **Disclaimer**:  
+  This project is strictly for educational purposes and must comply with applicable laws and ethical standards. It should only be used in controlled environments with explicit permission.  
 
-### [AI Malware Detection Prototype](https://github.com/vamshiramavath/ai-malware-detection)  
-- Developed a basic machine learning model to classify malicious files.  
-- Trained using Python and achieved a detection accuracy of 92%.  
 
 ## Get in Touch  
 - **Email**: vamshiramavath16@gmail.com  
 - **LinkedIn**: [linkedin.com/in/vamshiramavath](https://linkedin.com/in/vamshiramavath)  
-- **GitHub**: [github.com/vamshiramavath](https://github.com/vamshiramavath)  
+  
 
